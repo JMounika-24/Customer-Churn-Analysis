@@ -2,7 +2,8 @@
 
 Project/ Title 
 
-  📉 Telecom Customer Churn Analysis
+  📉 Customer Churn Analysis
+  
  End-to-End Exploratory Data Analysis in Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
